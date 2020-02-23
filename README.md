@@ -15,7 +15,12 @@
 
 1. docker-compose up -d
 
-## 
+## psql cmd
+
+```
+psql -h localhost -p 5432 gwp -d gwp
+select * from posts;
+```
 
 ## 参考URL
 + Python: https://djangobrothers.com/blogs/django_docker/
