@@ -3,7 +3,7 @@
 ## Dockerのインストール(Mac編)
 
 1. 下記URLへアクセスし、「Docker For Mac」のダウンロードを行う.
- [Docker For Mac](https://store.docker.com/editions/community/docker-ce-desktop-mac)
+ https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 2. 画面右下にある「Get Docker」ボタンをクリックしてインストール開始
 ![Docker For Mac](/img/Docker_ForMac.png)
@@ -33,7 +33,7 @@
 ## Dockerのインストール(Windows編)
 
 1. 下記URLへアクセスする.
-[Windows For Mac](http://www.docker.com/products/docker-toolbox)
+ http://www.docker.com/products/docker-toolbox
 
 2. 「Download for Windows」ボタンをクリックし、インストールを行う.
 ![Docker For Mac](/img/Docker_ForWindows.png)
