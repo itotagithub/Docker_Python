@@ -6,7 +6,6 @@
  https://store.docker.com/editions/community/docker-ce-desktop-mac
 
 2. 画面右下にある「Get Docker」ボタンをクリックしてインストール開始
-![Docker For Mac](/img/Docker_ForMac.png)
 
 3. 2.でダウンロードしたdmgファイルを開き、Docker For MacのアイコンをApplicationフォルダにドラッグ&ドロップ
 
@@ -36,7 +35,6 @@
  http://www.docker.com/products/docker-toolbox
 
 2. 「Download for Windows」ボタンをクリックし、インストールを行う.
-![Docker For Mac](/img/Docker_ForWindows.png)
 
 3. 2.でダウンロードしたDocker Toolboxを実行
 
