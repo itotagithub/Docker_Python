@@ -67,7 +67,6 @@
 16. docker-machineの実行が完了したらDocker実行のターミナル画面が表示される.
 
 17. 下記コマンド入力し、実行する.インストールが正常完了していることを確認する.
-
  docker version
 
 18. 下記コマンドよりhello-worldのDockerイメージを実行し、コンテナの動作確認を行い、正常に動作したらDocker及びDocker ToolBoxのインストールは完了.
