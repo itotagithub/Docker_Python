@@ -22,12 +22,12 @@
 9. 時間が経つと「Docker is now up and runnnig!」と表示される.
 
 10. 9.まででインストールとDockerの起動が完了したことを確認するためターミナルを開き、下記コマンドを実行し、ClientとServerが表示されたら正常に完了しています.
-
+...
 -- Docker バージョン確認
  docker version
 -- Docker Compose バージョン確認
  docker-compose version
-
+...
 
 ## Dockerのインストール(Windows編)
 
