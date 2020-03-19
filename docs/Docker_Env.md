@@ -9,7 +9,8 @@
 
 3. 2.でダウンロードしたdmgファイルを開き、Docker For MacのアイコンをApplicationフォルダにドラッグ&ドロップ
 
-4. Applicationフォルダ内にあるDocker For Macをさらにダブルクリック. 初回起動時のため警告ダイアログが表示されるが気にせず、「OK」ボタンをクリック.
+4. Applicationフォルダ内にあるDocker For Macをさらにダブルクリック.  
+初回起動時のため警告ダイアログが表示されるが気にせず、「OK」ボタンをクリック.
 
 5. Welcomeメッセージが表示されたら、「Next」ボタンをクリック.
 
@@ -21,13 +22,14 @@
 
 9. 時間が経つと「Docker is now up and runnnig!」と表示される.
 
-10. 9.まででインストールとDockerの起動が完了したことを確認するためターミナルを開き、下記コマンドを実行し、ClientとServerが表示されたら正常に完了しています.
-...
--- Docker バージョン確認
- docker version
--- Docker Compose バージョン確認
- docker-compose version
-...
+10. 9.まででインストールとDockerの起動が完了したことを確認するためターミナルを開き、  
+下記コマンドを実行し、ClientとServerが表示されたら正常に完了しています.
+
+## Docker バージョン確認
+```
+1. docker version
+2. docker-compose version
+```
 
 ## Dockerのインストール(Windows編)
 
@@ -70,5 +72,11 @@
 
 18. 下記コマンドよりhello-worldのDockerイメージを実行し、コンテナの動作確認を行い、正常に動作したらDocker及びDocker ToolBoxのインストールは完了.
 
- 1. docker run hello-world
- 2. docker run -it ubuntu bash
+## Docker バージョン確認
+```
+docker run hello-world
+docker run -it ubuntu bash
+```
+
+## 参考書
++ Dockerによるアプリケーション開発環境構築ガイド
